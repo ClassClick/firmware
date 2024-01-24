@@ -24,7 +24,7 @@
 ```json
 {"type":"new_question","data":{"amount_answers":4}}
 ```
-> Using `amount_answer` is `0` will disable answering and the lights on all devices (used to reset when people didnt asnwer in time)
+> Using `amount_answer` is `0` will disable answering and the lights on all devices (used to reset when people didnt answer in time)
 
 #### End question (from pc)
 ```json
